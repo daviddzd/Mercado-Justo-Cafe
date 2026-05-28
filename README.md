@@ -1,12 +1,12 @@
-# ☕ Mercado Justo — Predicción de Precios del Café
+# Mercado Justo — Predicción de Precios del Café
 
 Análisis y pronóstico de precios para apoyar decisiones de comercialización
 de pequeños productores de café en Chiapas, Oaxaca y Veracruz.
 
 ## Links
 
-- 📖 [Documentación completa (GitBook)](https://davids-5.gitbook.io/mercado-justo-cafe/)
-- 🤖 [Bot de Telegram](https://t.me/mercadojusto_cafe_bot)
+- [Documentación completa (GitBook)](https://davids-5.gitbook.io/mercado-justo-cafe/)
+- [Bot de Telegram](https://t.me/mercadojusto_cafe_bot)
 
 ## Stack tecnológico
 
@@ -26,6 +26,8 @@ PySpark · ARIMA · Random Forest · PuLP · Plotly · Telegram Bot · Yahoo Fin
 1. Abrir `notebook/Mercado_Justo_Cafe_Final.ipynb` en Google Colab o Jupyter
 2. Subir `cafe_cereza_2003_2024.xlsx` al entorno
 3. Ejecutar todas las celdas
+
+1. Abrir link de google colab (https://colab.research.google.com/drive/1-I11K8-_SGjHxH1O4DCqwfYiSJq09LZD?usp=sharing)
 
 ### Bot de Telegram
 1. `cd bot/`
