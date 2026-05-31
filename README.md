@@ -14,20 +14,20 @@ PySpark · ARIMA · Random Forest · PuLP · Plotly · Telegram Bot · Yahoo Fin
 
 ## Estructura
 
-- `notebook/` — Notebook principal (Colab/Jupyter)
+- `notebook/` — Notebook principal (.ipynb)
 - `bot/` — Bot de Telegram (Python)
 - `bot_data/` — Modelos y datos exportados
-- `documentos/` — Contenido del proyecto
-- `capturas/` — Gráficas del análisis
+- `dataset/` — DataSet del SIAP
+- `graficas/` — Gráficas del análisis
+- `qr_codes/` — Códigos QR de los sitios
 
 ## Cómo ejecutar
 
 ### Notebook
-1. Abrir `notebook/Mercado_Justo_Cafe_Final.ipynb` en Google Colab o Jupyter
-2. Subir `cafe_cereza_2003_2024.xlsx` al entorno
-3. Ejecutar todas las celdas
-
-1. Abrir link de google colab (https://colab.research.google.com/drive/1-I11K8-_SGjHxH1O4DCqwfYiSJq09LZD?usp=sharing)
+1. Abrir `notebook/Mercado_Justo_Cafe_Final.ipynb` en Jupyter
+2. Abrir link de google colab (https://colab.research.google.com/drive/1-I11K8-_SGjHxH1O4DCqwfYiSJq09LZD?usp=sharing)
+3. Subir `cafe_cereza_2003_2024.xlsx` al entorno
+4. Ejecutar todas las celdas
 
 ### Bot de Telegram
 1. `cd bot/`
